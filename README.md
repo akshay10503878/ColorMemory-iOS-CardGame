@@ -12,9 +12,6 @@
 
 ScreenShots
 
-![Alt text](/ColorMemoryScreenshots/MainScreen.png?raw=true  "MainScreen")  
-![Alt text](/ColorMemoryScreenshots/PlayingScreen.png?raw=true  "PlayingScreen")  
-![Alt text](/ColorMemoryScreenshots/saveResult.png?raw=true  "saveResultScreen")  
-![Alt text](/ColorMemoryScreenshots/ScoreBoard.png?raw=true  "ScoreBoard")  
+![Alt text](/ColorMemoryScreenshots/MainScreen.png?raw=true  "MainScreen")  -  ![Alt text](/ColorMemoryScreenshots/PlayingScreen.png?raw=true  "PlayingScreen")  -  ![Alt text](/ColorMemoryScreenshots/saveResult.png?raw=true  "saveResultScreen")  -   ![Alt text](/ColorMemoryScreenshots/ScoreBoard.png?raw=true  "ScoreBoard")  
 
 
